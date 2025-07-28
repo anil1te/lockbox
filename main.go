@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ars1ks/GeneratePassword/utils"
+	"github.com/anil1te/lockbox/utils"
 )
 
 func main() {
