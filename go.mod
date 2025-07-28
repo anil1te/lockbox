@@ -1,3 +1,3 @@
-module github.com/ars1ks/GeneratePassword
+module github.com/anil1te/lockbox
 
 go 1.24.5
